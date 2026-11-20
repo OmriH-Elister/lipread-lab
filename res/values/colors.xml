@@ -1,0 +1,7 @@
+<resources>
+    <color name="ink">#19172A</color>
+    <color name="muted">#68657A</color>
+    <color name="surface">#F5F3FF</color>
+    <color name="primary">#5B4BDB</color>
+    <color name="danger">#A4303F</color>
+</resources>
