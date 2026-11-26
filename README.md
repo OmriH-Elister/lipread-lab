@@ -55,7 +55,7 @@ Auto-AVSR reports 20.3% word error rate for this model on LRS3. That benchmark d
 
 Face video is biometric-sensitive. The supplied server uses per-request temporary directories, but production deployment also needs TLS, authentication, access controls, retention auditing, and explicit subject consent.
 
-Auto-AVSR source code is Apache-2.0. Its pretrained weights inherit unresolved restrictions from training datasets (LRS2, LRS3, VoxCeleb2 and AVSpeech-derived data). Treat the checkpoint as research/prototype-only unless the authors or legal counsel confirm your intended commercial use.
+LipRead Lab's original source code is licensed under the MIT License; see `LICENSE`. Auto-AVSR source code is Apache-2.0. Its pretrained weights inherit unresolved restrictions from training datasets (LRS2, LRS3, VoxCeleb2 and AVSpeech-derived data). Treat the checkpoint as research/prototype-only unless the authors or legal counsel confirm your intended commercial use.
 
 ## Current scope
 
